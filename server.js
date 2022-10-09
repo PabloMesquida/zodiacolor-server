@@ -15,6 +15,7 @@ server.use(
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   })
 );
+server.options("*", cors());
 server.use(router);
 server.listen(3000, () => {
   console.log("JSON Server is running");

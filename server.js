@@ -6,11 +6,18 @@ const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 // Add this before server.use(router)
-
+server.use(
+  cors({
+    origin: true,
+    credentials: true,
+    preflightContinue: false,
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+  })
+);
 server.use(router);
 server.listen(3000, () => {
   console.log("JSON Server is running");
 });
 
-// Export the Server API
+// Export the Server APIz
 module.exports = server;

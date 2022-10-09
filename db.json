@@ -1,34 +1,12 @@
 {
-  "santos": [
+  "users": [
     {
-      "id": 1,
-      "name": "Seiya",
-      "constellation": "Pegaso"
-    },
-    {
-      "id": 2,
-      "name": "Shiryu",
-      "constellation": "Dragón"
-    },
-    {
-      "id": 3,
-      "name": "Hyoga",
-      "constellation": "Cisne"
-    },
-    {
-      "id": 4,
-      "name": "Shun",
-      "constellation": "Andrómeda"
-    },
-    {
-      "id": 5,
-      "name": "Ikki",
-      "constellation": "Fénix"
-    },
-    {
-      "id": 6,
-      "name": "mu",
-      "constellation": "aries"
+      "id": "1",
+      "name": "Pablo",
+      "solar": "Taurus",
+      "ascendant": "Acuarius",
+      "moon": "Taurus",
+      "color": "#FF0000"
     }
   ]
 }

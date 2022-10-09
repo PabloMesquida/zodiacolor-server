@@ -2,4 +2,4 @@
 deployment:
   task:
     - export DEPLOYPATH=/home/pfuserpanel/public_html/zodiacolor-server/
-    - /bin/rsync -av public/ $DEPLOYPATH
+    - /bin/cp  public/ $DEPLOYPATH

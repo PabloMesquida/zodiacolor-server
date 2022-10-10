@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Pablo",
-      "solar": "Taurus",
+      "constellation": "Taurus",
       "ascendant": "Acuarius",
       "moon": "Taurus",
       "color": "#FF0000"

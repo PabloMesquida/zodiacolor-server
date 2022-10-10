@@ -1,5 +1,0 @@
----
-deployment:
-  task:
-    - export DEPLOYPATH=/home/pfuserpanel/public_html/zodiacolor-server/
-    - /bin/cp  public/ $DEPLOYPATH

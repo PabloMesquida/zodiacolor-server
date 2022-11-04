@@ -1,86 +1,76 @@
 {
-  "signs": [
-    {
-      "id": 1,
-      "name": "Aries",
-      "img": "aries.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 2,
-      "name": "Taurus",
-      "img": "taurus.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 3,
-      "name": "Gemini",
-      "img": "gemini.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 4,
-      "name": "Cancer",
-      "img": "cancer.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 5,
-      "name": "Leo",
-      "img": "leo.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 6,
-      "name": "Virgo",
-      "img": "virgo.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 7,
-      "name": "Libra",
-      "img": "libra.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 8,
-      "name": "Scorpio",
-      "img": "scorpio.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 9,
-      "name": "Sagittarius",
-      "img": "sagittarius.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 10,
-      "name": "Capricorn",
-      "img": "capricorn.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 11,
-      "name": "Aquarius",
-      "img": "aquarius.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": 12,
-      "name": "Pisces",
-      "img": "pisces.png",
-      "color": "#FF0000"
-    }
-  ],
   "users": [
     {
       "id": 1,
       "name": "Pablo",
-      "sun": "Taurus",
-      "ascendant": "Acuarius",
-      "moon": "Taurus",
-      "color": "#FF0000"
+      "sun": "1",
+      "ascendant": "10",
+      "moon": "1",
+      "color": "#dd44dd"
+    },
+    {
+      "id": 2,
+      "name": "Alexandra",
+      "sun": "7",
+      "ascendant": "11",
+      "moon": "1",
+      "color": "#7733dd"
+    },
+    {
+      "id": 3,
+      "name": "Yunus",
+      "sun": "3",
+      "ascendant": "9",
+      "moon": "6",
+      "color": "#cc5588"
+    },
+    {
+      "id": 4,
+      "name": "Kira",
+      "sun": "7",
+      "ascendant": "3",
+      "moon": "5",
+      "color": "#77bb99"
+    },
+    {
+      "id": 5,
+      "name": "Ion",
+      "sun": "0",
+      "ascendant": "10",
+      "moon": "0",
+      "color": "#ee44ee"
+    },
+    {
+      "id": 6,
+      "name": "Johan",
+      "sun": "6",
+      "ascendant": "0",
+      "moon": "2",
+      "color": "#88eecc"
+    },
+    {
+      "id": 7,
+      "name": "Danka",
+      "sun": "4",
+      "ascendant": "3",
+      "moon": "10",
+      "color": "#aabb44"
+    },
+    {
+      "id": 8,
+      "name": "Inge",
+      "sun": "1",
+      "ascendant": "8",
+      "moon": "8",
+      "color": "#dd6666"
+    },
+    {
+      "id": 9,
+      "name": "Ed",
+      "sun": "0",
+      "ascendant": "11",
+      "moon": "10",
+      "color": "#ee3344"
     }
   ]
 }
